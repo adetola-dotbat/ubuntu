@@ -118,6 +118,8 @@ Enable the Site and Rewrite Module:
 bash
 Copy code
 sudo a2ensite your-laravel-app.conf sudo a2enmod rewrite sudo systemctl restart apache2
+
+https://chatgpt.com/share/23e32b51-533d-4a8a-8177-b985cc32364a
  
 
  
