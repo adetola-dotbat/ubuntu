@@ -1,10 +1,10 @@
 # ubuntu
-Step 1: Update Your System
-First, ensure your package lists and installed packages are updated.
-bash
-Copy code
-sudo apt update && sudo apt upgrade -y
-Step 2: Install Apache Web Server
+# Step 1: Update Your System
+## First, ensure your package lists and installed packages are updated.
+##bash
+##Copy code
+##sudo apt update && sudo apt upgrade -y
+##Step 2: Install Apache Web Server
 Install the Apache2 HTTP Server.
 bash
 Copy code
