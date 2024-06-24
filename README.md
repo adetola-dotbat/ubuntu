@@ -126,6 +126,7 @@ https://chatgpt.com/share/23e32b51-533d-4a8a-8177-b985cc32364a
 
 
 
+https://drive.google.com/file/d/1rgcgDfvslDm6BJFx3QUvp-U2WpFh4mk_/view?usp=sharing
 
 sudo nano apache2.conf
 
