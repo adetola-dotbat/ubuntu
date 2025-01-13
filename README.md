@@ -141,3 +141,6 @@ https://drive.google.com/drive/folders/1Uco7dTJMNC50Q5hHZErc_wgaymOnp4NR
 
 sudo dpkg -i /path/to/mysql-workbench-community*.deb
 sudo apt --fix-broken install
+
+-- wine path/to/heidisql-installer.exe
+
