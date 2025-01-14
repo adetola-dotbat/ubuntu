@@ -144,3 +144,14 @@ sudo apt --fix-broken install
 
 -- wine path/to/heidisql-installer.exe
 
+-----
+
+MAIL_MAILER=smtp
+MAIL_HOST=sandbox.smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=64075efb013de8
+MAIL_PASSWORD=f7cee19014dc44
+MAIL_ENCRYPTION=null
+MAIL_FROM_ADDRESS="hello@example.com"
+MAIL_FROM_NAME="${APP_NAME}"
+
